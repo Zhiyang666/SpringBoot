@@ -9,8 +9,8 @@ import lombok.Setter;
 @NoArgsConstructor
 public class GirlVo {
     //@RequestParam("cupSize") String cupSize,
-    //                          @RequestParam("age") Integer age,
-    //                          @RequestParam("name") String name
+    //@RequestParam("age") Integer age,
+    //@RequestParam("name") String name
     /**
      * **
      */
